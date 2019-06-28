@@ -280,7 +280,7 @@ body {
   }
 
   .div-2 p {
-  padding: 1.7em;
+  padding: 0 1.7em;
   border-left: 1px solid #555;
   border-right: 1px solid #555;
   }
